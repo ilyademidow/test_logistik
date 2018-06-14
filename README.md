@@ -1,4 +1,4 @@
-## Here is the test task to split the events ##
+## Here is the test task to map the events on time line ##
 
 *Example:*
 Before:
